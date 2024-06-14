@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Michael</h1>
-<h3 align="center">I am a Statistics and Machine Learning PhD student at Imperial College London</h3>
+<h1 align="left">Hi, I'm Michael</h1>
+<h3 align="left">I am a Statistics and Machine Learning PhD student at Imperial College London</h3>
 
 I'm passionate about building machine learning algorithms using:
  - Python / C++
