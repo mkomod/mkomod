@@ -6,7 +6,7 @@ I'm passionate about building machine learning algorithms using using:
  - Pytorch
  - C++
 
-My research is focused around scalable Bayesian inference:
+My research is focused around scalable Bayesian inference, here are some links to selected publications:
  - <a href="https://arxiv.org/abs/2406.00713">Logistic Variational Bayes Revisited (ICML 2024)</a>.
  - <a href="https://arxiv.org/abs/2309.10378">Group Sparse Variational Bayes (preprint 2023)</a>.
  - <a href="https://arxiv.org/abs/2112.10270"> Variational Bayes for high-dimensional proportional hazards models (Bioinformatics 2022)</a>.
