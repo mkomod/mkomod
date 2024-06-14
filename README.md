@@ -7,4 +7,7 @@ I'm passionate about building machine learning algorithms using:
  - Jax
  - sci-kit learn
 
-To learn more about my research you can find my latest <a href="https://arxiv.org/abs/2406.00713">ICML paper here</a>.
+Research:
+ - <a href="https://arxiv.org/abs/2406.00713">Logistic Variational Bayes Revisited (ICML 2024)</a>.
+ - <a href="https://arxiv.org/abs/2309.10378">Group Sparse Variational Bayes (preprint 2023)</a>.
+ - <a href="https://arxiv.org/abs/2112.10270"> Variational Bayes for high-dimensional proportional hazards models (Bioinformatics 2022)</a>.
